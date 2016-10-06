@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Apr 21 10:46:46 2016
-
+Convert PDF Text Documents into usable data
 @author: Michael
 """
 
